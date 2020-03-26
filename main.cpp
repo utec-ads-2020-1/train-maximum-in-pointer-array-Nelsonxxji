@@ -1,5 +1,5 @@
 #include <iostream>
-# include "max.h"
+#include "max.h"
 using namespace std;
 
 //int max(int *iptr[], int n);
