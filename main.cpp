@@ -2,8 +2,6 @@
 #include "max.h"
 using namespace std;
 
-//int max(int *iptr[], int n);
-
 int main()
 {
     int n, i;
@@ -17,5 +15,3 @@ int main()
     }
     cout << max(iptr, n) << endl;
 }
-
-

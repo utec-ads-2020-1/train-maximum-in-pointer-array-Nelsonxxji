@@ -1,3 +1,5 @@
+int max(int *iptr[], int n);
+
 int max(int *iptr[], int n)
 {
     int maxNumber = *iptr[0];
